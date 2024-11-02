@@ -417,7 +417,7 @@ export default function ThumbnailGenerator() {
             <h1 className="text-xl font-bold">Thumbs Up</h1>
             <nav>
               <a
-                href="https://github.com/yourusername"
+                href="https://github.com/nullisdefined/thumbs-up"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-gray-900"
