@@ -24,6 +24,9 @@ jobs:
       - name: Copy Verfification file
         run: cp google647b5771ad314b10.html dist/
 
+      - name: Copy Verification file
+        run: cp googleff3317b463f80ded.html dist/
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
